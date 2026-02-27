@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/tmp/kavia/workspace/code-generation/smart-todo-list-236770-236784/todo_frontend"
+}
